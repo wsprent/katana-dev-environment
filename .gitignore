@@ -8,7 +8,7 @@ shared-files/testmaster/twistd.*
 shared-files/testmaster/events_localhost
 shared-files/testmaster/git*
 shared-files/testmaster/master.cfg.sample
-shared-files/artifacts/*
+shared-files/artifacts/build*
 shared-files/*slave*
 shared-files/katana
 
