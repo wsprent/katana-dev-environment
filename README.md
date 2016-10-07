@@ -1,5 +1,5 @@
 # Katana Development Environment
-This repository contains a development environment which uses Vagrant and Salt to local Katana server on a virtual machine. 
+This repository contains a development environment which uses Vagrant and Salt to run a local Katana server on a virtual machine. 
 
 
 # Setup
