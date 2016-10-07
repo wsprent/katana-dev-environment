@@ -47,7 +47,7 @@ Having run the setup above, Katana should be located in the folder `shared-files
 	 sudo salt-call state.apply start
 	 
 ### Auto Updating Front-end
-*Note: this may not work with Windows machines.*
+*Note: this may not work with Windows machines.* </br>
 To have frontend changes to Katana automatically affect the running Katana instance, do the following:
 1. Run the front-end setup with
 	
